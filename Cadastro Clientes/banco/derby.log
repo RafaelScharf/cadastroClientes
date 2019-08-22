@@ -1,0 +1,31 @@
+Wed Aug 21 19:44:26 BRT 2019 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Wed Aug 21 19:44:26 BRT 2019:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-016c-b65a-4b08-ffffb758c070
+no diretório de banco de dados D:\Users\RKSCHARF\Documents\cadastroClientes-master\Cadastro Clientes\banco\banco_clientes 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=D:\Users\RKSCHARF\glassfish\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=D:\Users\RKSCHARF\Documents\cadastroClientes-master\Cadastro Clientes\banco
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Aug 21 19:44:34 BRT 2019:
+Encerrando a instância a816c00e-016c-b65a-4b08-ffffb758c070
+Wed Aug 21 19:44:34 BRT 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = banco_clientes), (DRDAID = {2}), Banco de dados 'banco_clientes' fechado.
+----------------------------------------------------------------
+Wed Aug 21 19:44:37 BRT 2019:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-016c-b65a-4b08-ffffb758c070
+no diretório de banco de dados D:\Users\RKSCHARF\Documents\cadastroClientes-master\Cadastro Clientes\banco\banco_clientes 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=D:\Users\RKSCHARF\glassfish\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=D:\Users\RKSCHARF\Documents\cadastroClientes-master\Cadastro Clientes\banco
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
